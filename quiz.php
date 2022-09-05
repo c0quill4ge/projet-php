@@ -7,4 +7,5 @@ session_start();
 <body>
 
 <form method="post" action="reponses.php">
-<label for="qun"> Quelle est la solution pour 1+1=x? </label>
+Quelle est la solution pour 1+1=x? </br>
+<label for="qun">  </label>: <input type="radio" name="qun" 
