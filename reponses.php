@@ -13,4 +13,4 @@ session_start();
 Pour résumer voici tes réponses:</br>
 <?php
 
-echo "La solution pour"
+echo "La solution pour";
